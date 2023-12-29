@@ -16,3 +16,4 @@ jobs:
           owner: Jerrynh770
           base: master
           head: master
+          ignore_fail: true
