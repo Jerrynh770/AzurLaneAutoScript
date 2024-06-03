@@ -1,6 +1,6 @@
 **| English | [日本語](README_jp.md) |**
 
-# AzurLaneAutoScript
+# Renew-alas
 
 Azur Lane bot with GUI (Supports CN, EN, JP, TW, able to support other servers), designed for 24/7 running scenes, can take over almost all Azur Lane gameplay. Azur Lane, as a mobile game, has entered the late stage of its life cycle. During the period from now to the server down, please reduce the time spent on the Azur Lane and leave everything to Alas.
 
